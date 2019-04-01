@@ -2,8 +2,8 @@
 #include "TM1637.h"
 #include "rgb_lcd.h"
 
-const int CLK = 2;
-const int DIO = 3;
+const int CLK = 3;
+const int DIO = 2;
 const int TP = A0;
 
 TM1637 tm1637(CLK,DIO);
