@@ -1,15 +1,36 @@
 # Temp-LCD-4DigitDisplay-arduino
 
+## Logiciels
+| Arduino | Fritzing |
+| :-----: | :------: |
+| ![](/icone/Arduino.png) | ![](/icone/Fritzing.png) |
+
 ## Composants
+| Arduino | SeeedStudio |
+| :-----: | :------: |
+| ![](/icone/Arduino.png) | ![](/icone/Seeed_Studio.png) | 
 
-### Arduino_Uno
-![Arduino_Uno]()
-
-## Branchement
-![Fritzing]()
+### Arduino
+| Arduino Mega  | Arduino Uno |
+| :-------------: | :-------------: |
+| ![](/composants/Arduino%20Mega.jpg) | ![](/composants/Arduino%20Uno.jpg) | 
 
 ### Shield
-* NC
+| Shield Grove base | Shield Grove Mega |
+| :-------------: | :-------------: |
+| ![](/composants/SeeedStudio/Shield_Grove_Base.png) | ![](/composants/SeeedStudio/Shield_Grove_Mega.jpg) |
+
+ 
+### SeeedStudio
+| Cable | 4 Digit Display | Temperature | LCD RGB |
+| :-------------: | :-------------: | :-------------: | :-------------: |
+| ![](/composants/SeeedStudio/Grove_Cable.jpg) | ![](/composants/SeeedStudio/Grove_4_digit_display.jpg) | ![](/composants/SeeedStudio/Grove_Temperature.jpg) | ![](/composants/SeeedStudio/Grove_LCD_RGB_Backlight.jpg) |
+
+## Branchement
+![](/fritzing/Untitled_Sketch.png)
+
+### Shield
+* Shield Grove
 
 ### Analogique
 * A0: Temperature LM35
